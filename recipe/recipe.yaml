@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.7.0"
+  version: "2.0.0"
 
 package:
   name: mcp-proxy-for-aws
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/m/mcp-proxy-for-aws/mcp_proxy_for_aws-${{ version }}.tar.gz
-  sha256: f981ab4adb8862cdc3870decc39294c37bc37dd0f392bd98a93b3d73f7ea31dc
+  sha256: dbbeaf1beb4816133d8da463e1f6e6b6417f715072a69b6cf1c976166f95b37f
 
 build:
   number: 0
